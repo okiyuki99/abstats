@@ -11,8 +11,11 @@ knitr::opts_chunk$set(
   fig.path = "man/figures/README-",
   out.width = "100%"
 )
+
+options(knitr.table.format = 'markdown')
 ```
-# abstats
+
+# abstats <a href='https://okiyuki99.github.io/abstats/'><img src='man/figures/logo.png' align="right" height="139" /></a>
 
 <!-- badges: start -->
 [![Travis build status](https://travis-ci.org/okiyuki99/abstats.svg?branch=master)](https://travis-ci.org/okiyuki99/abstats)
