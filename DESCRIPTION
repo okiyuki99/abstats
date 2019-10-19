@@ -3,7 +3,7 @@ Type: Package
 Title: abstats
 Version: 0.0.0.9000
 Authors@R: person("Motoyuki", "Oki", role = c("aut", "cre"), email = "bigtree3101@gmail.com")
-Description: Statistical methods and visualization tools for A/B testing to Accelerate Analysis and Research
+Description: Statistical methods and visualization tools for A/B testing to Accelerate Analysis and Research.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
