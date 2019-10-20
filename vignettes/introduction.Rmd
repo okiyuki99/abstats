@@ -16,13 +16,11 @@ knitr::opts_chunk$set(
 
 ## Introduction
 
-A package for Analysis and research of A/B testing.
+A package for analysis and research of A/B testing.
 
 ## Load Dummy Data
 
 First, we load dummy data from {abstats} package for this example.
 ```{r}
 # Load dummy data
-#df <- mmetrics::dummy_data
-#df
 ```

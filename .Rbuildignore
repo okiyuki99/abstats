@@ -7,4 +7,5 @@
 ^docs$
 ^.lintr$
 ^work$
+^pkgdown$
 ^codecov\.yml$
