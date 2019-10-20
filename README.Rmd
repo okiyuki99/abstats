@@ -25,3 +25,13 @@ options(knitr.table.format = 'markdown')
 <!-- badges: end -->
 
 Statistical methods for A/B test Analysis and Research
+
+# Installation
+
+You can install the development version from github with:
+
+```r
+# install.packages("remotes")
+remotes::install_github("okiyuki99/abstats")
+```
+
